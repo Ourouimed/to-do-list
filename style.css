@@ -46,6 +46,7 @@ body {
     text-align: center;
     cursor: pointer;
     margin-top: 5px;
+    border : none
 }
 
 .tasks-list {
